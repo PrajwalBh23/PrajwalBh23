@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajwal Bhoyar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalbh23&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalbh23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalbh23" alt="prajwalbh23" /></a> </p>
