@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pbhoyar622@gmail.com**
 
-- 🌐 **https://prajwal-bhoyar.netlify.app**
+- 🌐 **https://prajwal-bhoyar.vercel.app**
 
 <img src="" alt="">
 <h3 align="left">Connect with me:</h3>
